@@ -1,0 +1,68 @@
+.hero{
+    border-top:1px black solid;
+    border-bottom:1px black solid;
+    margin-top:5%;
+    padding-top:4%;
+    padding-bottom:4%;
+    margin-bottom:10%;
+}
+
+.portfolio-description{
+    border:black solid 1px;
+    padding:5%;
+    margin:10px;
+
+}
+.portfolio-pictures{
+    border:black solid 1px;
+    padding:5%;
+    margin:10px;
+}
+.portfolio-hero{
+    margin:5px;
+    margin-bottom:20px;
+}
+
+h2 {
+  text-align: center;
+}
+img {
+
+    max-width: 100%;
+    height: auto;
+    margin-top:5px;
+    margin-bottom:5px
+}
+.section-breaker{
+    margin-top:7%;
+}
+.about{
+    border-top:1px black solid;
+    border-bottom:1px black solid;
+    margin-top:5%;
+    padding-left:5%;
+    padding-right:5%;
+    padding-top:4%;
+    padding-bottom:4%;
+    margin-bottom:10%;
+}
+footer{
+    background-color:white;
+    height:200px;
+    width:100%;
+    margin:0;
+    padding: 1% 0;
+    display:flex;
+    flex-direction:row;
+    align-items: center;
+    justify-content: space-around;
+
+}
+.email{
+    height:64px;
+    width:64px;
+}
+.linkedin{
+    height:64px;
+    width:64px;
+}
