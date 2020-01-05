@@ -1,3 +1,4 @@
+
 .hero{
     border-top:1px black solid;
     border-bottom:1px black solid;
@@ -65,4 +66,18 @@ footer{
 .linkedin{
     height:64px;
     width:64px;
+}
+
+table, td, th {  
+  border: 1px solid #ddd;
+  text-align: left;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th, td {
+  padding: 15px;
 }
