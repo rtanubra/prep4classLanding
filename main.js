@@ -1,13 +1,17 @@
 $( document ).ready(function() {
-
+    $(".navigate_up").hide()
     $(window).scroll(function() {
-        if($(window).scrollTop() > $(document).height()*.06){
+        if($(window).scrollTop() > $(window).height()*.06){
             $(".navigate_up").show()
-        }else{
+        } else {
             $(".navigate_up").hide()
-            console.log('hide')
         }
     });
+
+    $(".navigate_up").click(function(){
+
+        $(window).scrollTop(0,0)
+    })
 })
 
 
