@@ -1,5 +1,6 @@
 $( document ).ready(function() {
     $(".navigate_up").hide()
+    $(".locationBox").hide()
     $(window).scroll(function() {
         if($(window).scrollTop() > $(window).height()*.06){
             $(".navigate_up").show()

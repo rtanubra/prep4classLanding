@@ -83,11 +83,17 @@ th, td {
 }
 .navigate_up{
     position:fixed;
-    top:6%;
+    bottom:10%;
     right:8%;
     z-index: 1;
     border:1px solid grey;
     border-radius: 20% / 80%;
     background-color:white;
     
+}
+.locationBox{
+    position:fixed;
+    top:6%;
+    left:2%;
+    z-index: 1;
 }
