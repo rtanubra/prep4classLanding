@@ -1,6 +1,6 @@
-<h1>Rey Tanubrata Portfolio</h1>
+<h1>Prep 4 Class Landing Page</h1>
 
 <p>
-Thank you for visiting my code!
-I hope we can connect. 
+Prep 4 Class is a specialized preperation program helping students get ahead in grade 11 physics U.
+
 </p>
