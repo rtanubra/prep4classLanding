@@ -7,6 +7,9 @@
     padding-bottom:4%;
     margin-bottom:10%;
 }
+.footer-text{
+    text-align:center;
+}
 
 .portfolio-description{
     border:black solid 1px;
