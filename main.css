@@ -7,9 +7,7 @@
     padding-bottom:4%;
     margin-bottom:10%;
 }
-.footer-text{
-    text-align:center;
-}
+
 
 .portfolio-description{
     border:black solid 1px;
@@ -50,16 +48,20 @@ img {
     padding-bottom:4%;
     margin-bottom:10%;
 }
-footer{
+.footer-text{
+}
+.footer{
+    padding-left:10%;
+    padding-right:10%;
     background-color:white;
-    height:200px;
-    width:100%;
+    width:90%;
     margin:0;
-    padding: 1% 0;
+    text-align:center;
     display:flex;
     flex-direction:row;
     align-items: center;
     justify-content: space-around;
+    
 
 }
 .email{
