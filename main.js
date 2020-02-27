@@ -15,11 +15,3 @@ $( document ).ready(function() {
     })
 })
 
-
-
-`
-if($(window).scrollTop() + $(window).height() === $(document).height()) {
-            alert("bottom!");
-            // getData();
-}
-`
